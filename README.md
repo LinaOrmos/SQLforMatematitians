@@ -1,0 +1,2 @@
+# SQLforMatematitians
+SQL algebra operations
